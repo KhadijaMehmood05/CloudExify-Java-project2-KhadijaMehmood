@@ -100,7 +100,7 @@ Stored data includes:
 | ArrayList | Data Management |
 | File Handling | Data Persistence |
 
----
+
 
 #  Class Description
 
