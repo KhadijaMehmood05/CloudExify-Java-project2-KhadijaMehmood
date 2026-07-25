@@ -256,10 +256,3 @@ Improved modern UI themes
 Khadija Mehmood
 
 BS Computer Science Student
-
-📄 License
-
-This project is developed for educational purposes.
-
-
-This version is better because it focuses on **what the project does**, **technologies**, **features**, a
