@@ -1,3 +1,0 @@
-11,Aliya,aliya@gmail.com,03325678901
-12,sana,sana@gmail.com,03081234567
-3,Javeria,javeria@gmail.com,03009876543
