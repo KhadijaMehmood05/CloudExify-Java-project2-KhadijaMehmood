@@ -190,7 +190,6 @@ Includes:
 - Separates implementation details from user interaction
 
 
-
 #  How to Run the Project
 
 ### Requirements
@@ -200,13 +199,13 @@ Includes:
 
 ### Steps
 
-1. Clone or download this repository.
+1. Download or clone this repository.
 
 2. Open the project in your Java IDE.
 
-3. Run the `Main.java` file.
+3. Build and compile the project.
 
-4. The Library Book Manager application will start.
+4. Run the application.
 
 
 
