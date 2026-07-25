@@ -7,7 +7,6 @@ A desktop-based **Library Book Manager System** developed using **Java Swing**. 
 #  Project Overview
 
 The Library Book Manager is a Java-based desktop application designed to automate library management tasks. It provides a graphical user interface where users can manage books, register members, issue and return books, and maintain borrowing records.
-
 The system automatically saves and loads data, allowing information to remain available even after restarting the application.
 
 
